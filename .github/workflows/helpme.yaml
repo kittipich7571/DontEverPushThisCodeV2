@@ -1,9 +1,9 @@
-name: DevSecOps Pipeline
-on:
-  push:
-    branches: [ main ]
-  pull_request:
-    branches: [ main ]
+# name: DevSecOps Pipeline
+# on:
+#   push:
+#     branches: [ main ]
+#   pull_request:
+#     branches: [ main ]
 
 # TODO#0: DONE — workflow-level permissions scoped to least privilege
 permissions:
